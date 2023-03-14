@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![Agnes and Linus](/images/DSC07360.JPG)
 
-This site is an internal repository for the Reder-Steigman family. It includes:
+This site is an internal repository for the Blackberry Jam family. It includes:
 
 - [Family recipes](/recipes)
 - [Photos](/photos)
